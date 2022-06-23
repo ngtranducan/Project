@@ -1,0 +1,21 @@
+E:\SEM4_NT106_LTMCB\LT\BT\Multi_chat\Client\bin\Debug\Client.exe.config
+E:\SEM4_NT106_LTMCB\LT\BT\Multi_chat\Client\bin\Debug\Client.exe
+E:\SEM4_NT106_LTMCB\LT\BT\Multi_chat\Client\bin\Debug\Client.pdb
+E:\SEM4_NT106_LTMCB\LT\BT\Multi_chat\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+E:\SEM4_NT106_LTMCB\LT\BT\Multi_chat\Client\obj\Debug\Client.Client.resources
+E:\SEM4_NT106_LTMCB\LT\BT\Multi_chat\Client\obj\Debug\Client.Properties.Resources.resources
+E:\SEM4_NT106_LTMCB\LT\BT\Multi_chat\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\SEM4_NT106_LTMCB\LT\BT\Multi_chat\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\SEM4_NT106_LTMCB\LT\BT\Multi_chat\Client\obj\Debug\Client.exe
+E:\SEM4_NT106_LTMCB\LT\BT\Multi_chat\Client\obj\Debug\Client.pdb
+C:\Users\Duc An\Desktop\mmh\Client_Server_AES\Multi_chat\Client\bin\Debug\Client.exe.config
+C:\Users\Duc An\Desktop\mmh\Client_Server_AES\Multi_chat\Client\bin\Debug\Client.exe
+C:\Users\Duc An\Desktop\mmh\Client_Server_AES\Multi_chat\Client\bin\Debug\Client.pdb
+C:\Users\Duc An\Desktop\mmh\Client_Server_AES\Multi_chat\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Duc An\Desktop\mmh\Client_Server_AES\Multi_chat\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Duc An\Desktop\mmh\Client_Server_AES\Multi_chat\Client\obj\Debug\Client.Client.resources
+C:\Users\Duc An\Desktop\mmh\Client_Server_AES\Multi_chat\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Duc An\Desktop\mmh\Client_Server_AES\Multi_chat\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Duc An\Desktop\mmh\Client_Server_AES\Multi_chat\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Duc An\Desktop\mmh\Client_Server_AES\Multi_chat\Client\obj\Debug\Client.exe
+C:\Users\Duc An\Desktop\mmh\Client_Server_AES\Multi_chat\Client\obj\Debug\Client.pdb
